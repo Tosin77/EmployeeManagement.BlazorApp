@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement.Blazor", "EmployeeManagement.Blazor\EmployeeManagement.Blazor.csproj", "{28B9713C-DA43-4DA2-AC01-9296DB2FECB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagement.Blazor", "EmployeeManagement.Blazor\EmployeeManagement.Blazor.csproj", "{28B9713C-DA43-4DA2-AC01-9296DB2FECB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement.Model", "EmployeeManagement.Model\EmployeeManagement.Model.csproj", "{1C89781E-556B-420A-97C1-E439B5177053}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagement.Model", "EmployeeManagement.Model\EmployeeManagement.Model.csproj", "{1C89781E-556B-420A-97C1-E439B5177053}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
